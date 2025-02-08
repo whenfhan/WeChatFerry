@@ -10,7 +10,7 @@
 </details>
 
 |[📖 Python 文档](https://wechatferry.readthedocs.io/)|[📺 Python 视频教程](https://mp.weixin.qq.com/s/APdjGyZ2hllXxyG_sNCfXQ)|[🙋 FAQ](https://mp.weixin.qq.com/s/UbzPuw3-2xZLEzUABXMEdw)|
-|:-:|:-:|:-:| 
+|:-:|:-:|:-:|  
 
 👉 [WeChatRobot🤖](https://github.com/lich0821/WeChatRobot)，一个基于 WeChatFerry 的 Python 机器人示例。
 
